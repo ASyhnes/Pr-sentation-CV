@@ -19,7 +19,7 @@ Aujourd'hui, je me lance dans un nouvel objectif, qui sera pour moi la clé de v
 - Échanger sur les meilleures pratiques en développement logiciel et intelligence artificielle.
 - Partager des connaissances et apprendre des autres.
 
-  ### 🎨 Hobbies et Passions
+🎨 **Hobbies et Passions**:
 
 - ***Explorer*** la **science** : botanique, chimie, électronique, mycologie...
 - ***Concevoir, assembler, piloter*** des **drones**, combinant ingénierie et créativité.
