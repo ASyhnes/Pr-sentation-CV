@@ -1,6 +1,4 @@
-Voici une proposition de présentation au format Markdown (MD) pour GitHub, avec l'ajout d'emojis pour rendre le texte plus attractif :
 
----
 
 # Développement Web et Gestion de Projet chez AidiagMe 🚀
 
